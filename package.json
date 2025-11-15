@@ -5,7 +5,8 @@
   "main": "_worker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compress": "terser snip_my -o snip_mi -c -m"
+    "compress": "terser snip_my.js -o snip_mi.js -c -m",
+    "compress2": "terser ss_my.js -o ss_mi.js -c -m"
   },
   "repository": {
     "type": "git",

@@ -4,8 +4,10 @@
 test
 __pycache__
 *.iml
-snip_mi
-snip_my
+snip_mi.js
+snip_my.js
+ss_mi.js
+ss_my.js
 node_modules/
 /target
 /dist
